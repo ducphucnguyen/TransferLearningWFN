@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1625791562939.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "824762476",
+    "id" : "8330D6B9",
+    "lastKnownWriteTime" : 1625792767,
+    "last_content_update" : 1625792766990,
+    "path" : "R:/CMPH-Windfarm Field Study/Duc Phuc Nguyen/4. Machine Listening/R script/Performance_Eval.R",
+    "project_path" : "Performance_Eval.R",
+    "properties" : {
+        "cursorPosition" : "10,34",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

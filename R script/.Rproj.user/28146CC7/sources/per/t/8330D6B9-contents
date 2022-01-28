@@ -1,0 +1,11 @@
+
+# load basic packages
+source('basepackage.R')
+
+mise()
+
+X <- read_csv("R:/CMPH-Windfarm Field Study/Duc Phuc Nguyen/4. Machine Listening/Data set/set1/X.csv",
+              col_names = FALSE)
+
+Y <- read_excel("R:/CMPH-Windfarm Field Study/Duc Phuc Nguyen/4. Machine Listening/Data set/set1/Y.xlsx", 
+                col_names = FALSE)
